@@ -1,4 +1,4 @@
-## 📖 Page Progress Indicator (แสดงความคืบหน้าเมื่อ Scroll เว็บเซต์)
+## 📖 Page Progress Indicator (แสดงความคืบหน้าเมื่อ Scroll เว็บไซต์)
 ###### ✍️อัปเดทเมื่อ : 12/06/2567
 ###### 👨‍💻ผู้จัดทำ : Adisak
 ___
