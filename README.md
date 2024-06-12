@@ -1,5 +1,5 @@
 ## 📖 Page Progress Indicator
-###### ✍️อัปเดทเมื่อ : 11/06/2567
+###### ✍️อัปเดทเมื่อ : 12/06/2567
 ###### 👨‍💻ผู้จัดทำ : Adisak
 ___
  
@@ -36,5 +36,5 @@ ___
 
 ### 💻 ตัวอย่างเว็บไซต์
 
-![index]()
-![index]()
+![index](https://github.com/Adisak-KS/Workshop-Page-Progress-Indicator/blob/main/previews/pre-1.png)
+![index](https://github.com/Adisak-KS/Workshop-Page-Progress-Indicator/blob/main/previews/pre-2.png)
